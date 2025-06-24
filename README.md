@@ -1,20 +1,20 @@
-# 🧠 Brain Tumor Detection & Segmentation using YOLOv11 & SAM2
+#  Brain Tumor Detection & Segmentation using YOLOv11 & SAM2
 
 This project is an advanced AI-based application that detects and segments brain tumors in MRI scans using a combination of **YOLOv11** for detection and **SAM2 (Segment Anything Model)** for pixel-precise segmentation. It blends **deep learning models** with practical medical imaging workflows.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🧠 Detects four types of brain conditions: `glioma`, `meningioma`, `pituitary`, and `no_tumor`
-- 📦 Automatically segments the detected tumor region using SAM2
-- 🖼️ Supports upload and testing of new MRI images
-- 📈 Visual training results: predictions, confusion matrix, accuracy plots
-- 🧪 Easy-to-run via Google Colab or local Python environment
+-  Detects four types of brain conditions: `glioma`, `meningioma`, `pituitary`, and `no_tumor`
+-  Automatically segments the detected tumor region using SAM2
+-  Supports upload and testing of new MRI images
+-  Visual training results: predictions, confusion matrix, accuracy plots
+-  Easy-to-run via Google Colab or local Python environment
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - **Detection Model**: YOLOv11 (Ultralytics)
 - **Segmentation Model**: SAM2 (Meta AI - Segment Anything Model)

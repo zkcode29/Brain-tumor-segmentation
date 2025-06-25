@@ -4,6 +4,10 @@ This project is an advanced AI-based application that detects and segments brain
 
 ---
 
+## Youtube Link
+https://youtu.be/jEt3EyGYu80?si=tEdlSTpeptmwPTTa
+
+
 ##  Features
 
 -  Detects four types of brain conditions: `glioma`, `meningioma`, `pituitary`, and `no_tumor`
